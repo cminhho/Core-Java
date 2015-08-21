@@ -1,18 +1,18 @@
 # Getting Started with Java 
 Here we will discuss some basics topics related to Java
 
-# # # # How to Download Java
+#### How to Download Java
 Lasted versino of Java can be download from [Java Website](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-# # # # Java Installation
+#### Java Installation
 Once java is downloaded, it can be installed like any other software (.exe) in your Windows system. 
 
-# # # # Setting up the Environment Varibales
+#### Setting up the Environment Varibales
 After installing Java there are some environment variables that need to be set.
  - CLASSPATH: This environment variable points the location of JDK home directory. It also contains the address of the folder from where the jars get loaded by the ClassLoader 
  - JAVA_HOME: This environment variable will point the location of JAva home directory
  
-# # # # How to Check if Java is Installed 
+#### How to Check if Java is Installed 
 To check if your Java is installed properly open Command Prompt. In the command prompt window wite **"java -version"**. If your java is installed properly and all environment variables are configured correcly it will show the version of Java installed. Information reflected on the command prompt will be like
 ```sh
 C:UsersJbt>java -version
@@ -26,10 +26,10 @@ If there is any problem while installing or in setting up the environment variab
 operable program or batch file.
 ```
 
-# # # # How to Check if Java is up to date
+#### How to Check if Java is up to date
 To know if the Java installed on your System is up to date or not [Check here](http://www.java.com/en/download/installed.jsp)
 
-# # # # First Java Program
+#### First Java Program
 It is highly common that the very first Java program would be to print "Hello World!!". 
 If everything till now was configured properly then we can start writing our first application. Open any editor and write the bellow code.
 ```sh
