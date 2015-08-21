@@ -2,7 +2,7 @@
 Here we will discuss some basics topics related to Java
 
 #### How to Download Java
-Lasted versino of Java can be download from [Java Website](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+Lasted version of Java can be download from [Java Website](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 #### Java Installation
 Once java is downloaded, it can be installed like any other software (.exe) in your Windows system. 
