@@ -34,17 +34,20 @@ public class TestClass {
   static {
     System.out.println("This is static block");
   }
-  
+
   {
     System.out.println("This is ananuymous block");
   }
-  
+
   TestClass(){
     System.out.println("This is constructor");
   }
-  
+
   void method(){
     System.out.println("This is method");
+  }
+  public static void main(String args[]){
+	  System.out.println("This is main method");
   }
 }
 class AnotherClass {
