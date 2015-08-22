@@ -10,7 +10,7 @@ Once java is downloaded, it can be installed like any other software (.exe) in y
 #### Setting up the Environment Varibales
 After installing Java there are some environment variables that need to be set.
  - CLASSPATH: This environment variable points the location of JDK home directory. It also contains the address of the folder from where the jars get loaded by the ClassLoader 
- - JAVA_HOME: This environment variable will point the location of JAva home directory
+ - JAVA_HOME: This environment variable will point the location of JAva home directory (C:\Program Files\Java)
  
 #### How to Check if Java is Installed 
 To check if your Java is installed properly open Command Prompt. In the command prompt window wite **"java -version"**. If your java is installed properly and all environment variables are configured correcly it will show the version of Java installed. Information reflected on the command prompt will be like
