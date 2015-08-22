@@ -30,7 +30,7 @@ package com.cminhho;
 import java.lang.*;
 
 public class TestClass {
-  pubic int i;
+  public int i;
   static {
     System.out.println("This is static block");
   }
@@ -44,7 +44,7 @@ public class TestClass {
   }
   
   void method(){
-    System.out.println("This is method")
+    System.out.println("This is method");
   }
 }
 class AnotherClass {
